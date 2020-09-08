@@ -191,6 +191,12 @@ a.social:hover {
       margin: 0 auto;
   }
 
+  .card {
+    margin: 20px;
+    flex-basis: 30%;
+    flex-grow: 1;
+  }
+
   header {
     min-height: 470px;
   }
